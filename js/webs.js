@@ -2,7 +2,7 @@
 const urls = new Array(
     {
         name: 'capra',
-        url: "https://caprarecords.com/gb/search?controller=search&s="
+        url: "https://caprarecords.com/gb/search?controller=search&s=",
     },
     {
         name: 'blaka',
